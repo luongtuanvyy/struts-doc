@@ -11,3 +11,5 @@ https://javabeat.net/struts-2-0-and-jpa-integration/
 https://ojitha.blogspot.com/2010/01/spring-25jpa-20strut-13-web-application.html
 
 https://www.avajava.com/tutorials/lessons/how-do-i-set-up-a-struts-1-project.html
+
+https://www.codejava.net/struts-tutorials
