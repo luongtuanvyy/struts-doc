@@ -13,3 +13,7 @@ https://ojitha.blogspot.com/2010/01/spring-25jpa-20strut-13-web-application.html
 https://www.avajava.com/tutorials/lessons/how-do-i-set-up-a-struts-1-project.html
 
 https://www.codejava.net/struts-tutorials
+
+---- Nexaweb ------
+
+http://dev.nexaweb.co.jp/home/us.dev/index.html@cid=2487.html
